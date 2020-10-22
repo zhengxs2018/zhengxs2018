@@ -12,6 +12,8 @@
 列出的都是有实际使用的经验，每一个都是经过筛选，可能会有更优的替代，但这些就是我目前掌握的 🥳。
 
 
+![](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fd098bd4a05d4e5095da1979a0a7a2e8~tplv-k3u1fbpfcp-watermark.image)
+
 在服务端，主 koa 及其衍生框架（如 [__eggjs__](https://eggjs.org/)，[__midwayjs__](https://github.com/midwayjs/midway)），对 [__nestjs__](https://nestjs.com/) 框架的有尝试的想法，数据库方面主要考虑 [__prisma__](https://github.com/prisma/prisma) + PostgreSQL。
 
 在客户端主 Vue.js，目前正研究 [__React Hooks__](https://zh-hans.reactjs.org/docs/hooks-intro.html)，尝试在 Vue.js 中引入 hook 方面的能力，目前已发布 [__@zhengxs2018/vue-hooks__](https://github.com/zhengxs2018/vue-hooks) 模块，支持 Vue 2 & 3 的版本。
@@ -36,7 +38,7 @@
 
 -  snowpack
 
-    - ant design
+- ant design
 
 - [__rome__](https://github.com/facebookexperimental/rome) - 实验性的 JavaScript 工具链
 
