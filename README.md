@@ -8,21 +8,20 @@
 
 在 WEB 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **Vue.js** 中引入 hook 方面的能力，目前已发布 [@zhengxs2018/vue-hooks] 模块，支持 Vue 2 & 3 的版本。
 
-客户端开发在关注 [Flutter][flutter] 和 [React Native][reactnative]，不过没做过完整的项目。
+客户端开发在关注 [Flutter][flutter] 和 [React Native][reactnative]，不过没做过完整的项目 👻 。
 
-### 正在关注
+### 🧐 正在关注
 
 - 微前端 - 公司需要
 - serverless - 使用过 [midwayjs][midwayjs] serverless 方案 和 腾讯云函数
-- [vitejs][vitejs]
-- [snowpack][snowpack]
+- [vitejs][vitejs] & [snowpack][snowpack]
 - [prisma][prisma]  - 已有一个实际的项目在使用
 - [Flutter][flutter]
 - [nx](https://github.com/nrwl/nx)
 - [rome](https://github.com/facebookexperimental/rome) - 实验性的 JavaScript 工具链
 - [fibjs](https://github.com/fibjs/fibjs)
 
-### 我的开源
+### 😘 我的开源
 
 - [@zhengxs2018/vue-hooks] - 支持 Vue 2 & 3 的 vue hooks
 - [common-algorithm](https://github.com/zhengxs2018/common-algorithm) - 目前只有 树和行互转 和 笛卡尔积 的处理
