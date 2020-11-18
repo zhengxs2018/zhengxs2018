@@ -6,9 +6,11 @@
 
 在服务端，主 [koa] 及其衍生框架（如 [eggjs]，[midwayjs]），对 [nestjs] 框架的有尝试的想法，数据库方面主要考虑 [prisma] + PostgreSQL。
 
-在 WEB 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **Vue.js** 中引入 hook 方面的能力，目前已发布 [@zhengxs2018/vue-hooks] 模块，支持 Vue 2 & 3 的版本。
+在 Web 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **Vue.js** 中引入 hook 方面的能力，目前已发布 [@zhengxs2018/vue-hooks] 模块，支持 Vue 2 & 3 的版本。
 
 客户端开发在关注 [Flutter][flutter] 和 [React Native][reactnative]，不过没做过完整的项目 👻 。
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengxs2018&layout=compact)
 
 ### 🧐 正在关注
 
@@ -24,6 +26,10 @@
 ### 😘 我的开源
 
 - [@zhengxs2018/vue-hooks] - 支持 Vue 2 & 3 的 vue hooks
+- [Passport](https://github.com/zhengxs2018/passport) - 统一用户认证授权服务
+  - 统一内部和外部账号管理
+  - 统一登录方式
+  - 统一授权方式
 - [common-algorithm](https://github.com/zhengxs2018/common-algorithm) - 目前只有 树和行互转 和 笛卡尔积 的处理
   - 行转树的方法还有可以优化的，目标是用 **一个循环** 解决转换的问题
   - 笛卡尔积的算法，我觉得自己写的不错
@@ -51,3 +57,6 @@
 
 [React Hooks]: https://zh-hans.reactjs.org/docs/hooks-intro.html
 [@zhengxs2018/vue-hooks]: https://github.com/zhengxs2018/vue-hooks
+
+
+![Eduardo Lopes's github stats](https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true)
