@@ -17,7 +17,6 @@
 - 微前端 - 公司需要
 - serverless - 使用过 [midwayjs][midwayjs] serverless 方案 和 腾讯云函数
 - [vitejs][vitejs] & [snowpack][snowpack] & [nx][nx]
-- [prisma][prisma]  - 已有一个实际的项目在使用
 - [Flutter][flutter]
 - [fibjs](https://github.com/fibjs/fibjs)
 
@@ -69,4 +68,4 @@
 
 [React Hooks]: https://zh-hans.reactjs.org/docs/hooks-intro.html
 [@zhengxs2018/vue-hooks]: https://github.com/zhengxs2018/vue-hooks
-[nx]https://github.com/nrwl/nx
+[nx]: https://github.com/nrwl/nx
