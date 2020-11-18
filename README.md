@@ -22,8 +22,6 @@
 
 ### 😘 我的开源
 
-![Eduardo Lopes's github stats](https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true)
-
 #### 服务
 
 - [Passport](https://github.com/zhengxs2018/passport) - 统一用户认证授权服务
@@ -51,6 +49,9 @@
 
 - [nginx-conf](https://github.com/zhengxs2018/nginx-conf) -- 通用 nginx 配置模板
 - [npm-boilerplate](https://github.com/zhengxs2018/shared-node-browser-library-boilerplate) -- 通用 npm 模块脚手架
+
+
+![Eduardo Lopes's github stats](https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true)
   
 [koa]: https://koajs.com/
 [eggjs]: https://eggjs.org/
