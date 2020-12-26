@@ -31,6 +31,7 @@
   
 #### 模块
   
+- [@zhengxs2018/calendar-data] - 轻量级无依赖的日历数据生成器
 - [@zhengxs2018/vue-hooks] - 支持 Vue 2 & 3 的 vue hooks
 - [@zhengxs/common-algorithm](https://github.com/zhengxs2018/common-algorithm) -- 目前只有 树和行互转 和 笛卡尔积 的处理
   - 行转树的方法还有可以优化的，目标是用 **一个循环** 解决转换的问题
