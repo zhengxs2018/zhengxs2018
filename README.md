@@ -48,7 +48,7 @@
 
 #### 模板
 
-- [nginx-conf](https://github.com/zhengxs2018/nginx-conf) -- 通用 nginx 配置模板
+- [nginx-conf](https://github.com/LittleDonkeyTechnologyCom/nginx-conf) -- 通用 nginx 配置模板
 - [npm-boilerplate](https://github.com/zhengxs2018/shared-node-browser-library-boilerplate) -- 通用 npm 模块脚手架
 
 
