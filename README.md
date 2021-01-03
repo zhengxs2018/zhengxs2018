@@ -19,6 +19,7 @@
 - [vitejs][vitejs] & [snowpack][snowpack] & [nx][nx]
 - [Flutter][flutter]
 - [fibjs](https://github.com/fibjs/fibjs)
+- [lit-element](https://lit-element.polymer-project.org/) - polymer 项目新出的，开发 web-components 利器
 
 ### 😘 我的开源
 
