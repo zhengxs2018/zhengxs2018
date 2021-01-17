@@ -2,6 +2,11 @@
 
 # Hi there 👋
 
+[![GitHub User's stars](https://img.shields.io/github/stars/zhengxs2018?style=social)](https://github.com/zhengxs2018)
+[![Github](https://img.shields.io/github/followers/zhengxs2018?label=Follow&style=social)](https://github.com/zhengxs2018)
+[![lang](https://img.shields.io/badge/lang-typescript-informational)](https://www.typescriptlang.org/)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 
 <img  src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" alt="Eduardo Lopes's github stats" align="right" >
 
@@ -13,7 +18,7 @@
 
 在 Web 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **Vue.js** 中引入 hook 方面的能力，目前已发布 [@zhengxs2018/vue-hooks] 模块，支持 Vue 2 & 3 的版本。
 
-客户端开发在关注 [Flutter], [React Native] 和 [capacitorjs]，不过没做过完整的项目 👻 。
+客户端开发在关注 [Flutter], [React Native][reactnative] 和 [capacitorjs]，不过没做过完整的项目 👻 。
 
 
 ## 我在折腾
@@ -24,7 +29,7 @@
 ### 🧐 正在关注
 
 
-- 微前端 - [乾坤](http://qiankun.umijs.org/) 大法好？
+- 微前端 - [乾坤](http://qiankun.umijs.org/) 大法好
 - [vitejs][vitejs] & [snowpack][snowpack] - 能代替 webpack ？
 - [nx][nx] - 更强的 monorepo 开发体验？
 - [Flutter][flutter] & [capacitorjs] - 跨端？增强？谁更适合前端？
@@ -46,8 +51,7 @@
 **框架类**
 
 - [koa-hooks](https://github.com/zhengxs2018/koa-hooks)（Archived） -- web 框架，不实用，但确实好玩
-- [simple-apitest](http://github.com/zhengxs2018/simple-apitest)（Archived）-- API 测试框架
-  - 请使用 [httprunner](https://github.com/httprunner/httprunner) 代替
+- [simple-apitest](http://github.com/zhengxs2018/simple-apitest)（Archived）-- API 测试框架，请使用 [httprunner](https://github.com/httprunner/httprunner) 代替
 
 **模板**
 
