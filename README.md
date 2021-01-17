@@ -10,6 +10,12 @@
 
 客户端开发在关注 [Flutter][flutter] 和 [React Native][reactnative]，不过没做过完整的项目 👻 。
 
+
+## 变秃项目
+
+这是我最近折腾的项目：[ihaowu](https://github.com/ihaowu/ihaowu)，一个 微服务 + 微前端 的在线商城项目。
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengxs2018&layout=compact)
 
 ### 🧐 正在关注
