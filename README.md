@@ -13,10 +13,9 @@
 
 做过前端和测试开发，16年的时候，使用 python 写过爬虫，客串过几次（初级）产品助理，会用 Axure，画过一些原型稿，除了故事讲的不好，可以当半个产品经理用，目前正在带前端团队。
 
-
 在服务端，主 [koa] 及其衍生框架（如 [eggjs]，[midwayjs]），对 [nestjs] 框架的有尝试的想法，数据库方面主要考虑 [prisma] + PostgreSQL。
 
-在 Web 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **Vue.js** 中引入 hook 方面的能力，目前已发布 [@zhengxs2018/vue-hooks] 模块，支持 Vue 2 & 3 的版本。
+在 Web 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **vue2** 中引入 hook 方面的能力，已发布 [@zhengxs2018/composition-api] 模块。
 
 客户端开发在关注 [Flutter], [React Native][reactnative] 和 [capacitorjs]，不过没做过完整的项目 👻 。
 
@@ -39,12 +38,9 @@
   
 **NPM 模块**
   
-- [@zhengxs2018/calendar-data](https://github.com/zhengxs2018/calendar-data) - 轻量级无依赖的日历数据生成器
-- [@zhengxs2018/vue-hooks] - 支持 Vue 2 & 3 的 vue hooks
-- [js.tree](https://github.com/zhengxs2018/js.tree) - 推荐用于树结构数据处理
-- [@zhengxs/common-algorithm](https://github.com/zhengxs2018/common-algorithm) -- 目前只有 笛卡尔积 的
-  - 树转换推荐使用 [js.tree](https://github.com/zhengxs2018/js.tree)
-  - 笛卡尔积的算法，我觉得自己写的不错
+- [@zhengxs2018/calendar-data](https://github.com/zhengxs2018/calendar-data) - 轻量级无依赖的日历数据生成
+- [@zhengxs2018/composition-api] - 支持 Vue2 的 `composition-api` 库
+- [@zhengxs2018/js.tree](https://github.com/zhengxs2018/js.tree) - 推荐用于树结构数据处理
 - [wechat-open-sdk](https://github.com/zhengxs2018/wechat-open-sdk)（Archived）-- 里面的消息加解密可能对你有用
 
 **框架类**
@@ -54,8 +50,14 @@
 
 **模板**
 
-- [nginx-conf](https://github.com/LittleDonkeyTechnologyCom/nginx-conf) -- 通用 nginx 配置模板
-- [shared-npm-module](https://github.com/zhengxs2018/shared-node-browser-library-boilerplate) -- 通用 npm 模块脚手架
+- [通用 nginx 配置模板](https://github.com/LittleDonkeyTechnologyCom/nginx-conf)
+- [通用 npm 模块脚手架](https://github.com/zhengxs2018/shared-node-browser-library-boilerplate)
+
+**项目**
+
+- [codelabs](https://github.com/zhengxs2018/codelabs) - 一些灵感和想法
+- [h5 商城](https://github.com/zhengxs2018/haowu.h5.mall) - 基于 vant 开发
+- [hzfc-reiva-spider](https://github.com/zhengxs2018/hzfc-reiva-spider) - NodeJS 爬虫
 
 
 [koa]: https://koajs.com/
@@ -74,6 +76,7 @@
 [snowpack]: https://www.snowpack.dev/
 
 [React Hooks]: https://zh-hans.reactjs.org/docs/hooks-intro.html
+[@zhengxs2018/composition-api]: https://github.com/zhengxs2018/composition-api
 [@zhengxs2018/vue-hooks]: https://github.com/zhengxs2018/vue-hooks
 [nx]: https://github.com/nrwl/nx
 
