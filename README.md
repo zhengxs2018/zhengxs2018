@@ -58,6 +58,7 @@
 - [codelabs](https://github.com/zhengxs2018/codelabs) - 一些灵感和想法
 - [h5 商城](https://github.com/zhengxs2018/haowu.h5.mall) - 基于 vant 开发
 - [hzfc-reiva-spider](https://github.com/zhengxs2018/hzfc-reiva-spider) - NodeJS 爬虫
+- [vue-mobile-ui-template](https://github.com/zhengxs2018/vue-mobile-ui-template) - Vue3 移动端 UI 组件库脚手架
 
 
 [koa]: https://koajs.com/
