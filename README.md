@@ -7,8 +7,7 @@
 [![lang](https://img.shields.io/badge/lang-typescript-informational)](https://www.typescriptlang.org/)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-
-<img  src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" alt="Eduardo Lopes's github stats" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" alt="zhengxs2018 github stats" align="right" />
 
 
 做过前端和测试开发，16年的时候，使用 python 写过爬虫，客串过几次（初级）产品助理，会用 Axure，画过一些原型稿，除了故事讲的不好，可以当半个产品经理用，目前正在带前端团队。
@@ -19,8 +18,9 @@
 
 客户端开发在关注 [Flutter], [React Native][reactnative] 和 [capacitorjs]，不过没做过完整的项目 👻 。
 
-
 ## 我在折腾
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengxs2018&layout=compact" alt="zhengxs2018 Top Langs" align="right" />
 
 
 ### 🧐 正在关注
@@ -59,6 +59,8 @@
 - [h5 商城](https://github.com/zhengxs2018/haowu.h5.mall) - 基于 vant 开发
 - [hzfc-reiva-spider](https://github.com/zhengxs2018/hzfc-reiva-spider) - NodeJS 爬虫
 - [vue-mobile-ui-template](https://github.com/zhengxs2018/vue-mobile-ui-template) - Vue3 移动端 UI 组件库脚手架
+
+
 
 
 [koa]: https://koajs.com/
