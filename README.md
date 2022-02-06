@@ -8,7 +8,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" alt="zhengxs2018 github stats" align="right" />
 
 
-14年以 Java web 入行 ，16年用 Python 开发过测试框架和爬虫，18年当前端组长，19年辅助产品经理，会用 Axure，画过一些原型稿，设计过 “好友支付”，“商品分享” 等产品原型，目前专注前端领域，正在带前端团队。
+14年以 Java web 入行 ，16年用 Python 开发过 API 测试框架和爬虫，18年当前端组长，19年辅助产品经理，会用 Axure，画过一些原型稿，设计过 “好友支付”，“商品分享” 等产品原型，目前专注前端领域，正在带前端团队。
 
 技术栈方面，主 [koa] 及其衍生框架（如 [eggjs]，[midwayjs]），对 [nestjs] 框架的有尝试的想法，数据库方面主要考虑 [prisma] + PostgreSQL。
 
