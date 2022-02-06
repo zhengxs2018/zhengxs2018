@@ -8,9 +8,9 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" alt="zhengxs2018 github stats" align="right" />
 
 
-做过前端和测试开发，16年的时候，使用 python 写过爬虫，客串过几次（初级）产品助理，会用 Axure，画过一些原型稿，除了故事讲的不好，可以当半个产品经理用，目前正在带前端团队。
+14年以 Java web 入行 ，16年用 Python 开发过测试框架和爬虫，18年当前端组长，19年辅助产品经理，会用 Axure，画过一些原型稿，设计过 “好友支付”，“商品分享” 等产品原型，目前专注前端领域，正在带前端团队。
 
-在服务端，主 [koa] 及其衍生框架（如 [eggjs]，[midwayjs]），对 [nestjs] 框架的有尝试的想法，数据库方面主要考虑 [prisma] + PostgreSQL。
+技术栈方面，主 [koa] 及其衍生框架（如 [eggjs]，[midwayjs]），对 [nestjs] 框架的有尝试的想法，数据库方面主要考虑 [prisma] + PostgreSQL。
 
 在 Web 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **vue2** 中引入 hook 方面的能力，已发布 [@zhengxs2018/composition-api] 模块。
 
