@@ -8,13 +8,7 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" alt="zhengxs2018 github stats" align="right" />
 
 
-14年以 Java web 入行 ，开始接触前端 knotoutjs 这个 MVVM 框架；16年用 Python 开发 HTTP(s) 测试框架，并且使用爬虫帮助销售解决客户（公开数据）资源问题；18年当前端组长，定期组织培训提升团队专业能力，带领团队完成电商平台从 0 到 1 的过程；19年辅助产品经理，设计 “单点登录” 和 “好友支付” 等产品原型，目前专注前端领域，正在带前端团队。
-
-技术栈方面，主 [koa] 及其衍生框架（如 [eggjs]，[midwayjs]），对 [nestjs] 框架的有尝试的想法，数据库方面主要考虑 [prisma] + PostgreSQL。
-
-在 Web 主 [Vue.js][vuejs]，目前正研究 [React Hooks]，尝试在 **vue2** 中引入 hook 方面的能力，已发布 [@zhengxs2018/composition-api] 模块。
-
-客户端开发在关注 [Flutter], [React Native][reactnative] 和 [capacitorjs]，不过没做过完整的项目 👻 。
+14年以 Java web 入行 ，目前专注前端领域。
 
 ## 我在折腾
 
