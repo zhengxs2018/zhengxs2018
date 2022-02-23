@@ -12,8 +12,6 @@
 
 ## 我在折腾
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengxs2018&layout=compact" alt="zhengxs2018 Top Langs" align="right" />
-
 
 ### 🧐 正在关注
 
