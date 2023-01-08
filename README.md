@@ -36,6 +36,8 @@
 **Deno 模块**
 
 - [urllib](https://github.com/zhengxs2018/urllib) - 基于原生 fetch 的请求库
+- [extract-variables-for-text](https://github.com/zhengxs2018/extract-variables-for-text) - 根据模板提取目标字符串中的值
+- [deno_temme](https://github.com/zhengxs2018/deno_temme) - 为了能在 deno 中使用，fork 了 [Temme](https://github.com/shinima/temme) 项目。
 
 **框架**
 
