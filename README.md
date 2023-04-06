@@ -13,9 +13,12 @@
 
 ## 我在折腾
 
+### 😉 我现在的
+
+- [「WIP」基于 OpenAI 开发的聊天应用](https://github.com/zhengxs2018/ai-chat)
+- [使用 Wechaty & ChatGPT 写的微信聊天机器人](https://github.com/zhengxs2018/wechaty-chatgpt)
 
 ### 🧐 正在关注
-
 
 - 微前端 - [乾坤](http://qiankun.umijs.org/) 大法好
 - [vitejs][vitejs] & [snowpack][snowpack] - 能代替 webpack ？
@@ -44,16 +47,16 @@
 - [koa-hooks](https://github.com/zhengxs2018/koa-hooks)（Archived） -- web 框架，不实用，但确实好玩
 - [simple-apitest](http://github.com/zhengxs2018/simple-apitest)（Archived）-- API 测试框架，请使用 [httprunner](https://github.com/httprunner/httprunner) 代替
 
-**模板**
-
-- [通用 nginx 配置模板](https://github.com/LittleDonkeyTechnologyCom/nginx-conf)
-- [通用 npm 模块脚手架](https://github.com/zhengxs2018/shared-node-browser-library-boilerplate)
-
 **项目**
 
 - [codelabs](https://github.com/zhengxs2018/codelabs) - 一些灵感和想法
 - [h5 商城](https://github.com/zhengxs2018/haowu.h5.mall) - 基于 vant 开发
 - [hzfc-reiva-spider](https://github.com/zhengxs2018/hzfc-reiva-spider) - NodeJS 爬虫
+
+**模板**
+
+- [通用 nginx 配置模板](https://github.com/LittleDonkeyTechnologyCom/nginx-conf)
+- [通用 npm 模块脚手架](https://github.com/zhengxs2018/shared-node-browser-library-boilerplate)
 - [vue-mobile-ui-template](https://github.com/zhengxs2018/vue-mobile-ui-template) - Vue3 移动端 UI 组件库脚手架
 
 
