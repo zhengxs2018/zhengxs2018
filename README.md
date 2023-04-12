@@ -8,9 +8,6 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" alt="zhengxs2018 github stats" align="right" />
 
-
-14年以 Java web 入行 ，目前专注前端领域。
-
 ## 我在折腾
 
 ### 😉 我现在的
@@ -18,14 +15,6 @@
 - [「WIP」基于 OpenAI 开发的聊天应用](https://github.com/zhengxs2018/ai-chat)
 - [使用 Wechaty & ChatGPT 写的微信聊天机器人](https://github.com/zhengxs2018/wechaty-chatgpt)
 
-### 🧐 正在关注
-
-- 微前端 - [乾坤](http://qiankun.umijs.org/) 大法好
-- [vitejs][vitejs] & [snowpack][snowpack] - 能代替 webpack ？
-- [nx][nx] - 更强的 monorepo 开发体验？
-- [Flutter][flutter] & [capacitorjs] - 跨端？增强？谁更适合前端？
-- [lit-element](https://lit-element.polymer-project.org/) - 谷歌 polymer 项目出品，开发 web-components 利器
-- [midwayjs][midwayjs] - serverless 适合小团队么？
 
 ### 😘 我的开源
   
@@ -50,15 +39,7 @@
 **项目**
 
 - [codelabs](https://github.com/zhengxs2018/codelabs) - 一些灵感和想法
-- [h5 商城](https://github.com/zhengxs2018/haowu.h5.mall) - 基于 vant 开发
 - [hzfc-reiva-spider](https://github.com/zhengxs2018/hzfc-reiva-spider) - NodeJS 爬虫
-
-**模板**
-
-- [通用 nginx 配置模板](https://github.com/LittleDonkeyTechnologyCom/nginx-conf)
-- [通用 npm 模块脚手架](https://github.com/zhengxs2018/shared-node-browser-library-boilerplate)
-- [vue-mobile-ui-template](https://github.com/zhengxs2018/vue-mobile-ui-template) - Vue3 移动端 UI 组件库脚手架
-
 
 [koa]: https://koajs.com/
 [eggjs]: https://eggjs.org/
