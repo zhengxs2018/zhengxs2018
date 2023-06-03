@@ -12,8 +12,7 @@
 
 ### 😉 我现在的
 
-- [「WIP」基于 OpenAI 开发的聊天应用](https://github.com/zhengxs2018/ai-chat)
-- [使用 Wechaty & ChatGPT 写的微信聊天机器人](https://github.com/zhengxs2018/wechaty-chatgpt)
+- 颓废中
 
 
 ### 😘 我的开源
