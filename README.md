@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <img align="center"  height="320px" src="https://github-readme-activity-graph.vercel.app/graph?username=zhengxs2018&bg_color=ffffff&color=000000&line=dbb485&point=ff8c00&area=true&hide_border=true" />
+  <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=zhengxs2018&bg_color=ffffff&color=000000&line=dbb485&point=ff8c00&area=true&hide_border=true" />
   
   <img src="https://streak-stats.demolab.com?user=zhengxs2018&locale=zh_Hans&langs_count=15&layout=compact&hide_border=true" alt="GitHub Streak" />
 </p>
