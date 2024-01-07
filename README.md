@@ -36,9 +36,25 @@
 <br>
 
 <p align="center">
+<span><img src="https://skillicons.dev/icons?i=linux,nginx,postgres,prisma,redis,docker,git,supabase,java,python,nodejs,deno,flask,nestjs,vue,react,ts,aiscript,bots,vscode,tailwind,vite,rollupjs,webpack&perline=12" /></span>
+</p>
+
+<p align="center">
   <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=zhengxs2018&bg_color=ffffff&color=000000&line=dbb485&point=ff8c00&area=true&hide_border=true" />
-  
-  <img src="https://streak-stats.demolab.com?user=zhengxs2018&locale=zh_Hans&langs_count=15&layout=compact&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true&theme=jolly&rank_icon=github&hide_title=true&ring_color=3772ff&border_color=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true&rank_icon=github&hide_title=true&ring_color=3772ff&theme=catppuccin_latte&border_color=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhengxs2018&show_icons=true" width="44%" />
+</picture>
+&nbsp;
+<picture>
+  <source srcset="https://streak-stats.demolab.com/?user=zhengxs2018&theme=jolly&border=00000000&border_radius=12" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://streak-stats.demolab.com/?user=zhengxs2018&theme=catppuccin_latte&border=00000000&border_radius=12" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://streak-stats.demolab.com/?user=zhengxs2018" width="40%" />
+</picture>
 </p>
 
 ## 访问量： 
