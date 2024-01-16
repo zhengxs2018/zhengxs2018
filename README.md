@@ -23,11 +23,7 @@
 
 ## ✨ 自我介绍
 
-以 Java Web 入坑，用 Python 开发 HTTP(s) 测试框架，使用爬虫帮助销售团队获取业内俱乐部的联系方式。
-
-18 年开始当组长，带领团队完成电商平台从 0 到 1 的开发，19 年辅助产品经理，独立设计 "单点登录” 和 "好友支付" 的产品原型。
-
-现带领团队完成公司前端基建工作，如：公司组件库，微前端 以及 各种类库 等开发与维护。
+[@CGQAQ](https://github.com/cgqaq) 粉丝一枚。
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=是鲁迅不想上班，关我周树人什么事&author=周树人)](https://github.com/piyushsuthar/github-readme-quotes)
 
